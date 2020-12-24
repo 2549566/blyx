@@ -1,6 +1,6 @@
 package com.blyx.infrastructure.mapper;
 
-import com.blyx.infrastructure.entity.AddressEntity;
+import com.blyx.infrastructure.entity.AddressDTO;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -18,5 +18,5 @@ public interface AddressMapper {
      * 获取配置枚举
      *
      * */
-    List<AddressEntity>  selectAuditList();
+    List<AddressDTO>  selectAddress();
 }

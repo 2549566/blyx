@@ -10,7 +10,7 @@ import java.io.Serializable;
  *
  * */
 @Data
-public class AddressEntity implements Serializable {
+public class AddressDTO implements Serializable {
 
     private static final long serialVersionUID = -3601015773257244340L;
     /**
