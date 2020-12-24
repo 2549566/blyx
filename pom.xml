@@ -12,6 +12,8 @@
         <module>blyx-web</module>
         <module>blyx-infrastructure</module>
         <module>blyx-dependencies</module>
+        <module>blyx-common</module>
+        <module>blyx-service</module>
     </modules>
 
     <properties>
