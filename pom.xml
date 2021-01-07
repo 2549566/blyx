@@ -13,7 +13,8 @@
         <module>blyx-infrastructure</module>
         <module>blyx-dependencies</module>
         <module>blyx-common</module>
-        <module>blyx-service</module>
+        <module>blyx-context</module>
+        <module>blyx-domain</module>
     </modules>
 
     <properties>
